@@ -1,2 +1,3 @@
-# ridge_regression_example
-Easy Ridge Regression example
+# Easy Ridge Regression example
+
+Jupyter notebook, needs Matplotlib, NumPy and Scikit-learn.
